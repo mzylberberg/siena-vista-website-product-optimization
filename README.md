@@ -4,7 +4,7 @@
 
 ## 🎥 Product Demo
 
-### ▶️ [WATCH THE WEBSITE WALKTHROUGH](https://github.com/user-attachments/assets/6bec544f-ebbb-461c-8af3-896405f68ee4)
+### ▶️ [WATCH THE WEBSITE WALKTHROUGH- Open Positions Page](https://github.com/user-attachments/assets/6bec544f-ebbb-461c-8af3-896405f68ee4)
 
 
 A short walkthrough of the website improvements, navigation changes,
