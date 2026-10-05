@@ -2,6 +2,7 @@
 | --- | --- | --- |
 | Low website visibility | Create stronger recruitment touchpoints | Reoriented content |
 | Users didn't naturally return | Increase recurring value | Improved resource discoverability |
+| Unclear role of Siena in the VISTA experience | Clarify the multi-organization user journey | Improved program and recruitment content |
 | Information difficult to locate | Improve information architecture | Reorganized content |
 | Outdated information | Establish content governance | Updated pages |
 | Accessibility issues | Reduce barriers | Alt-text/heading audit |
