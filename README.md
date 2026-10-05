@@ -83,11 +83,12 @@ product optimization.
 ## 🔎 Pain Points
 
 1. Low visibility during the recruitment journey
-2. Users did not naturally return to the website
-3. Information discoverability could be improved
-4. Some content was outdated or unclear
-5. Accessibility issues created additional friction
-6. SEO limitations reduced discoverability
+2. Confusion through the recruitment process as
+3. Users did not naturally return to the website
+4. Information discoverability could be improved
+5. Some content was outdated or unclear
+6. Accessibility issues created additional friction
+7. SEO limitations reduced discoverability
 
 ---
 
