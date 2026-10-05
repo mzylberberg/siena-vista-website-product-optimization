@@ -114,6 +114,7 @@ product optimization.
 - Improved information hierarchy
 - Improved discoverability
 - Reoriented content around the VISTA journey
+- Built an Open Positions page so VISTA's can apply directly through our website
 
 ### Governance
 - Created a structured issue-tracking process
@@ -168,14 +169,14 @@ through a specific journey.
 
 ## 📁 Project Documentation
 
-- 🎥 [Website Walkthrough](...)
+- 🎥 [Website Walkthrough](./metrics/website-walkthrough.md)
 - 👥 [User Research](./user-research/)
 - 🎯 [Problem Statement](./product-strategy/problem-statement.md)
 - 💡 [Product Opportunity](./product-strategy/product-opportunity.md)
 - 📊 [KPI Dashboard](./metrics/siena-vista-kpi-dashboard.png)
 - ♿ [Accessibility Work](./implementation/accessibility.md)
-- 🔎 [SEO Work](./implementation/seo.md)
-- 🏛️ [Governance](./implementation/governance.md)
+- 🔎 [SEO Work](./implementation/SEO.md)
+- 🏛️ [Governance](./implementation/governance-compliance.md)
 
 https://github.com/user-attachments/assets/f00b2d8b-8e2c-4cdd-a689-a21c651f44a7
 
