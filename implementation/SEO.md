@@ -2,7 +2,7 @@
 
 ## Objective
 
-Improve the website's search visibility and make relevant VISTA information easier for users to discover.
+Improve the website's search visibility and make relevant VISTA information easier for users to discover and read.
 
 ## Audit Approach
 
