@@ -105,7 +105,7 @@ product optimization.
 - Measured before/after performance
 
 ### Accessibility
-- Utilized [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)to implement changes that match an industry standard
+- Utilized [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) to implement changes that match an internationally recognized industry standard
 - Audited image alt text
 - Identified heading structure issues
 - Addressed accessibility barriers
