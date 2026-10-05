@@ -8,26 +8,25 @@ The website therefore serves a unique audience: prospective and incoming VISTAs 
 
 ## Problem
 
-User feedback indicated that the Siena VISTA website had limited visibility throughout the recruitment process. Incoming VISTAs did not consistently return to or rely on the website, even though it contained information relevant to their recruitment and service experience.
+User feedback identified two related challenges within the VISTA recruitment and service journey.
 
-This created a gap between the information users encountered across the broader VISTA journey and the information available through the Siena VISTA website.
+First, the Siena VISTA website had limited visibility throughout recruitment. Prospective VISTAs could interact primarily with AmeriCorps and their prospective host organization without consistently encountering or returning to the Siena VISTA website.
+
+Second, some prospective and incoming VISTAs did not clearly understand Siena's role in their VISTA experience. Because VISTAs serve at a nonprofit host site while also participating in the Siena VISTA program, the relationship between AmeriCorps, Siena, and the host organization was not always immediately clear.
+
+This created a gap between the organizations users interacted with and the information they received about their full VISTA experience.
 
 ### User Journey
 
 **AmeriCorps → Siena VISTA → Nonprofit Host Site**
 
-The website needed to function as more than a static marketing or informational resource. It needed to become a useful digital touchpoint within the VISTA journey.
-
-## Research Evidence
-
-User research was conducted through a Google Forms-based questionnaire focused on website navigation, discoverability, expectations, and overall experience.
-
-> **Retrospective documentation:** The original questionnaire and raw responses are no longer available. This document summarizes the research approach and key findings based on the project work completed during my VISTA term.
+The website needed to function as more than a static marketing or informational resource. It needed to become a useful digital touchpoint that helped users understand the program, discover opportunities, and stay connected to Siena throughout their VISTA experience.
 
 ## Core Problem
 
-**Incoming VISTAs were not consistently engaging with the Siena VISTA website throughout the recruitment process, limiting the website's ability to serve as a recurring source of information and support.**
+**The Siena VISTA website was not consistently functioning as a visible and useful touchpoint throughout the VISTA recruitment and service journey, making it harder for some users to discover opportunities and understand Siena's role in their VISTA experience.**
+## Product Question
 
 ## Product Question
 
-> **How might we make the Siena VISTA website a recurring, useful touchpoint throughout the VISTA recruitment and service journey?**
+> **How might we make the Siena VISTA website a useful, recurring touchpoint that helps prospective and incoming VISTAs discover opportunities, understand the program structure, and engage with Siena throughout their VISTA experience?**
