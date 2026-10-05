@@ -1,0 +1,103 @@
+# Website Governance Implementation
+
+## Objective
+
+Create a repeatable process for maintaining website quality, accessibility, content accuracy, and search visibility after the initial optimization work.
+
+Rather than treating the project as a one-time website cleanup, I developed a structured approach for identifying, evaluating, prioritizing, resolving, and measuring website issues.
+
+---
+
+## Governance Framework
+
+The project combined established accessibility guidance, evaluation tools, and website auditing practices.
+
+### ♿ Web Content Accessibility Guidelines (WCAG) 2.1
+
+WCAG 2.1 was used as the primary accessibility guideline for evaluating website content and identifying accessibility improvement opportunities.
+
+The guidelines provide testable success criteria for making web content more accessible to people with disabilities. They include three levels of conformance: A, AA, and AAA.
+
+🔗 [W3C Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
+
+### 🔎 WAVE Web Accessibility Evaluation Tool
+
+WAVE was used to evaluate website pages for accessibility-related issues and identify areas requiring further review.
+
+WAVE was used as an evaluation aid rather than as a certification mechanism. Automated tools can identify many accessibility issues, but human evaluation is still necessary to determine whether content is actually accessible.
+
+🔗 [WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org/)
+
+### 🕷️ Screaming Frog SEO Spider
+
+Screaming Frog SEO Spider was used to crawl and audit website pages for SEO and technical discoverability issues.
+
+It supported the identification of issues such as page-level SEO opportunities, metadata problems, and other factors affecting search visibility.
+
+🔗 [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)
+
+---
+
+## Governance Process
+
+The project followed a repeatable improvement cycle:
+
+**Identify → Evaluate → Categorize → Prioritize → Resolve → Measure → Review**
+
+### 1. Identify
+
+Website pages were reviewed using accessibility tools, SEO auditing tools, and manual review.
+
+### 2. Evaluate
+
+Identified issues were evaluated against the appropriate framework or quality standard.
+
+### 3. Categorize
+
+Issues were organized into categories such as:
+
+- Content
+- Accessibility
+- Readability
+- SEO / Discoverability
+- Other
+
+### 4. Prioritize
+
+Issues were prioritized based on their impact on accuracy, usability, accessibility, and discoverability.
+
+### 5. Resolve
+
+Applicable issues were corrected through CMS editing, content updates, SEO optimization, and accessibility improvements.
+
+### 6. Measure
+
+A KPI dashboard was created to track issue completion and performance improvements.
+
+### 7. Review
+
+The governance model supports continued review rather than treating website optimization as a one-time project.
+
+---
+
+## Governance & Measurement
+
+The KPI dashboard provided visibility into project progress and allowed website improvements to be tracked quantitatively.
+
+### Project Results
+
+- **84 issues identified**
+- **80 issues completed**
+- **4 issues in progress**
+- **5 pages audited**
+- **16% average SEO improvement**
+
+The dashboard also tracked issue completion by category, including content, accessibility, readability, and other website quality issues.
+
+---
+
+## Scope
+
+The governance and remediation work focused on frontend/CMS editing, website content, accessibility, SEO, and structured website review.
+
+The project did not include backend development or code-level remediation outside of the available CMS environment.
